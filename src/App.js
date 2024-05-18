@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <p>CI/CD 구현 - CloudFront</p>
+      <p>중앙에서 CI/CD</p>
     </div>
   );
 }
